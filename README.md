@@ -63,7 +63,8 @@ Resident DJ
 |:------:|:---------:|:--------------------------------------:|
 |!adblock |  | Returns our recommended add blocker |
 |~~!ask~~ | (String) | ~~Asks 8 ball~~ |
-|!beres | @user | Asks user to be respectful to everyone |
+|!beres | @user | Asks user to be respectful to everyone (@user is optional) |
+|!pdiscord | @user | Returns link to plug.dj's offical discord server (@user is optional) |
 |!commands | @user | Returns this commands list |
 |!duelhelp | @user | Returns help about !duels (@user is optional) |
 |!events | @user | Returns information about events and where to hear about them (@user is optional) |
